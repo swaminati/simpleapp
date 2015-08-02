@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        My html test
+    </title>
+</head>
+<body>
+    <h1>
+        Swami Nati
+    </h1>
+    <h3>
+        My HTML test
+    </h3>
+    <img src="http://isha.sadhguru.org/wp-content/uploads/2013/07/mission-header-3f.jpg"/>
+    <p>
+	<a href="http://isha.sadhguru.org/mission">Sadhguru's mission</a>
+	</p>
+    <p>
+        As directed by Moorthy, i've registered in Code Academy, yesterday.
+    </p>
+    <p>
+        And also, I've started to learn the Basic HTML.
+    </p>
+    <p>
+        First day itself, I've completed 14 lessons of Basic level I. And today I've completed 6 lesion of the basic 2nd level.
+        </p>
+    <a href="http://www.codeacademy.com">My html tutor link</a>
+    <img src="http://d0.awsstatic.com/product-marketing/S3/S3_Sketch_Available.png" />
+</body>
+</html>    
